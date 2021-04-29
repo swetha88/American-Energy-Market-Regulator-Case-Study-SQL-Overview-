@@ -1,5 +1,5 @@
 # American-Energy-Market-Regulator-Case-Study-SQL-Overview
-
+## Springboard Data Analyst bootcamp
 ## Scenario Overview:
 
 The American Energy Market Regulator (AEMR) is responsible for looking after the
@@ -29,3 +29,4 @@ B) Energy Losses and Market Reliability
 As an analyst within the data and reporting team, have been asked to address these
 two immediate areas of concern. Using your SQL skills, extract the data you need from
 the database and answer a series of queries.
+
